@@ -141,4 +141,4 @@ python check_models.py
 
 ## License
 
-Add a license of your choice (e.g. MIT) here.
+MIT
